@@ -1,2 +1,2 @@
 # EstruturaDeDados
-Repositório para estudo de lista encadeadas, listas ordenadas e árvores binárias em C#
+Repositório destinado a matéria de Estrutura de dados da professora Kadidja Valeria.
